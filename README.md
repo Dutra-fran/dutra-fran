@@ -1,5 +1,5 @@
 # 💫 About Me:
-GitLab is being used to upload projects to show my programming skills at diverse program languages. I'm Computer Network technical at IFCE and, currently, I'm graduating Computer Science at UECE. Dev C# ASP.NET and Java Spring.
+Técnico em Redes de Computadores pelo Instituto Federal do Ceará (IFCE) e, atualmente, graduando Ciência da Computação na Universidade Estadual do Ceará (UECE). Desenvolvedor C# ASP.NET, com boa experiência na construção de API REST utilizando conceitos de arquitetura em camadas DDD. Inglês nível A2, quase B1.
 
 
 ## 🌐 Socials:
