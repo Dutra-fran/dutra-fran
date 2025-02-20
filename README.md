@@ -1,5 +1,5 @@
 # 💫 About Me:
-Técnico em Redes de Computadores pelo Instituto Federal do Ceará (IFCE) e, atualmente, graduando Ciência da Computação na Universidade Estadual do Ceará (UECE). Desenvolvedor C# ASP.NET, com boa experiência na construção de API REST utilizando conceitos de arquitetura em camadas DDD. Inglês nível A2, quase B1.
+Técnico em Redes de Computadores pelo Instituto Federal do Ceará (IFCE) e, atualmente, graduando Ciência da Computação na Universidade Estadual do Ceará (UECE). Desenvolvedor back-end em Java Spring, com boa experiência na construção de API ReST utilizando conceitos de arquitetura em camadas DDD e Clean Architecture. Inglês nível A2, quase B1.
 
 
 ## 🌐 Socials:
